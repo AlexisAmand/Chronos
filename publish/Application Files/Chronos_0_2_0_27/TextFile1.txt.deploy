@@ -1,0 +1,54 @@
+﻿----------------------------
+Fait dans la version 0.2.0.7
+----------------------------
+
+- Voir si il existe un moyen de compter le nombre d'utilisateur du
+logiciel, il me semble que j'avais laissé un message sur un forum
+=> avec une page web de 1px sur 1px ^^ qui contient le code piwik
+
+----------------------------
+Fait dans la version 0.2.0.8
+----------------------------
+
+- Ajout d'une fonction qui permet de trouver "quel jour était une date"
+
+- Ajout d'une fonction qui permet de déterminer si une année est-elle bissextile.
+
+----------------------------
+Fait dans la version 0.2.0.9
+----------------------------
+
+- Ajout d'un icon
+
+-------
+A Faire
+-------
+
+- voir mettre sous licence libre, il y a un code à mettre au début de chaque fichier
+
+- Chronos est le nom d'un logiciel qui est proposé par BSD => il faut que je trouve un autre nom
+
+- detecter si une mise à jour est disponible au lancement
+
+- Voir pour la publication avec mise à jour automatique
+mais que ce passe t-il si la personne n'a pas internet ?
+
+- Découper un morceau de l'image du calendrier républicain 
+pour en faire un (ou une ?) icone. Par exemple prendre mariane
+et enlever la couleur noire.
+
+- une solution serait de créer l'icone de A à Z avec Inkscape ou
+Sodipodi
+
+- finalement, le code source ne sera pas joint au programme...
+
+- Affichage d'un petite astuce au lancement du logiciel -> il faudra prévoir un menu "option" qui permet de régler si on veut ou pas voir l'astuce.
+c'est presque prêt :
+' Form2_astuces.Visible = True dans Form1.vb
+
+-----------------------------------------------------------------------------------------------------------------
+
+le 29-09-2011
+
+publication de Chronos 
+a propos indique que la version est là 0.2.0.3

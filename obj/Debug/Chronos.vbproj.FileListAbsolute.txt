@@ -1,0 +1,224 @@
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\ResolveAssemblyReference.cache
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.vbproj.GenerateResource.Cache
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\Chronos.exe.manifest
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\Chronos.application
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\Chronos.exe
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\Chronos.pdb
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\Chronos.xml
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.exe.manifest
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.application
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.exe
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.xml
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.pdb
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.AboutBox1.resources
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.Form1.resources
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.Resources.resources
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.Form1.fr-FR.resources
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\fr-FR\Chronos.resources.dll
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\fr-FR\Chronos.resources.dll
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.Form2_astuces.resources
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.Form2.resources
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.Form3.resources
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\Chronos.exe.config
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\Chronos.exe.config
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\Chronos.exe.manifest
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\Chronos.application
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\Chronos.exe
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\Chronos.pdb
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\Chronos.xml
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.AboutBox1.resources
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.AboutBox2.resources
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.Form1.resources
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.Form2.resources
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.Form2_astuces.resources
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.Form3.resources
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.Resources.resources
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.Form1.fr-FR.resources
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.exe.manifest
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.application
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.exe
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.xml
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Debug\Chronos.pdb
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Debug\Chronos.exe.config
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.exe
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.xml
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.pdb
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Debug\Chronos.exe.manifest
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Debug\Chronos.application
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Debug\Chronos.exe
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Debug\Chronos.pdb
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Debug\Chronos.xml
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.AboutBox1.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.AboutBox2.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Form1.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Form2.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Form2_astuces.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Form3.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Resources.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Form1.fr-FR.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.exe.manifest
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.application
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Form4.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\bin\Debug\Chronos.exe.config
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\bin\Debug\Chronos.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\bin\Debug\Chronos.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\bin\Debug\Chronos.xml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\bin\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.AboutBox1.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Form2.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Form2_astuces.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Form3.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Form4.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.jourjulien.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.Form1.fr-FR.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.vbproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.xml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\obj\Debug\Chronos.SplashScreen1.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\bin\Debug\Chronos.exe.config
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\bin\Debug\Chronos.exe.manifest
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\bin\Debug\Chronos.application
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\bin\Debug\Chronos.exe
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\bin\Debug\Chronos.pdb
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\bin\Debug\Chronos.xml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\bin\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.AboutBox1.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.Form2.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.Form2_astuces.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.Form3.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.Form4.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.jourjulien.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.SplashScreen1.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.Form1.fr-FR.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.vbproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.TrustInfo.xml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.exe.manifest
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.application
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.exe
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.xml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.pdb
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.Form5.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Chronos\obj\Debug\Chronos.vbprojResolveAssemblyReference.cache
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.exe.config
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.exe
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.xml
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.pdb
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.vbprojResolveAssemblyReference.cache
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.AboutBox1.resources
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form1.resources
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form2.resources
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form2_astuces.resources
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form3.resources
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form4.resources
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.jourjulien.resources
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Resources.resources
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.SplashScreen1.resources
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form1.fr-FR.resources
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.vbproj.GenerateResource.Cache
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.exe.manifest
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.application
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.exe
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.pdb
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.xml
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\bin\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.TrustInfo.xml
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.exe.manifest
+C:\Users\Alex\OneDrive\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.application
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.exe.config
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.exe
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.xml
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.pdb
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.exe.manifest
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.application
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.exe
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.pdb
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.xml
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\bin\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.vbprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.AboutBox1.resources
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form1.resources
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form2.resources
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form2_astuces.resources
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form3.resources
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form4.resources
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.jourjulien.resources
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Resources.resources
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.SplashScreen1.resources
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form1.fr-FR.resources
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.vbproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.TrustInfo.xml
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.exe.manifest
+C:\Users\Alex\Desktop\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.application
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.exe.config
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.exe.manifest
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.application
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.exe
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.pdb
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\bin\Debug\Chronos.xml
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\bin\Debug\fr-FR\Chronos.resources.dll
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.vbprojResolveAssemblyReference.cache
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.AboutBox1.resources
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form1.resources
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form2.resources
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form2_astuces.resources
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form3.resources
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form4.resources
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.jourjulien.resources
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Resources.resources
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.SplashScreen1.resources
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.Form1.fr-FR.resources
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.vbproj.GenerateResource.Cache
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.vbproj.CoreCompileInputs.cache
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\fr-FR\Chronos.resources.dll
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.TrustInfo.xml
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.exe.manifest
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.application
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.exe
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.xml
+J:\Bureau\Vieux Raccourcis\visual studio 2015\Projects\Chronos\obj\Debug\Chronos.pdb
+E:\Dev\Visual Studio 2015\Projects\Chronos\bin\Debug\Chronos.exe.config
+E:\Dev\Visual Studio 2015\Projects\Chronos\bin\Debug\Chronos.exe.manifest
+E:\Dev\Visual Studio 2015\Projects\Chronos\bin\Debug\Chronos.application
+E:\Dev\Visual Studio 2015\Projects\Chronos\bin\Debug\Chronos.exe
+E:\Dev\Visual Studio 2015\Projects\Chronos\bin\Debug\Chronos.pdb
+E:\Dev\Visual Studio 2015\Projects\Chronos\bin\Debug\Chronos.xml
+E:\Dev\Visual Studio 2015\Projects\Chronos\bin\Debug\fr-FR\Chronos.resources.dll
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.vbprojAssemblyReference.cache
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.AboutBox1.resources
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.Form1.resources
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.Form2.resources
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.Form2_astuces.resources
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.Form3.resources
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.Form4.resources
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.jourjulien.resources
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.Resources.resources
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.SplashScreen1.resources
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.Form1.fr-FR.resources
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.vbproj.GenerateResource.cache
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.vbproj.CoreCompileInputs.cache
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\fr-FR\Chronos.resources.dll
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.TrustInfo.xml
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.exe.manifest
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.application
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.exe
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.xml
+E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.pdb

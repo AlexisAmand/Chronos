@@ -1,0 +1,122 @@
+﻿
+
+---------------------------
+A faire
+---------------------------
+
+- installation sur CD / DVD
+- création d'un zip
+
+- sur le site, faire un tuto pour expliquer comment installer
+- template gnome-grass + wordpress = joli site
+- reprendre les éléments de l'ancien site
+
+- voir mettre sous licence libre, il y a un code à mettre au début de chaque fichier
+
+- detecter si une mise à jour est disponible au lancement
+
+- Voir pour la publication avec mise à jour automatique
+mais que ce passe t-il si la personne n'a pas internet ?
+
+- Affichage d'un petite astuce au lancement du logiciel -> il faudra prévoir un menu "option" qui permet de régler si on veut ou pas voir l'astuce.
+c'est presque prêt :
+' Form2_astuces.Visible = True dans Form1.vb
+
+- ajout d'une fonction qui calcule le nombre de jour entre deux dates
+DateDiff("d",date1,date2)
+
+d est un argument, qui peut prendre les valeurs suivantes
+
+yyyy Année 
+q Trimestre 
+m Mois 
+y Jour de l'année 
+d Jour 
+w Jour de la semaine 
+ww Semaine 
+h Heure 
+n Minute 
+s Seconde
+
+- ajout d'une section encyclopedie qui afficherait des infos sur les calendriers ?
+
+- j'ai ajouté un splashscreen mais ça marche pô
+il faut ajouté un délai au bout duquel il est maqué pour laisser sa place à la Form1
+
+- il faut créer un fichier qui contient la configuration, il peut par exemple contenir
+le numéro de version que je peux facilement récupérer sur les pages où j'en ai besoin.
+
+- il faut peut-être refaire l'interface pour avoir qqch d'un peu plus grand, qui permettra
+d'afficher l'encyclopédie de façon plus agréable.
+
+-----------------------------------------------------------------------------------------------
+
+numérotation des versions:
+
+1er = 
+2e  = ajout d'une fonctionnalité
+3e  = resolution d'un bug
+
+-------------------------------------------------------------------------------------------------
+
+--------------------------
+Fait dans la version 0.2.0
+--------------------------
+
+- Voir si il existe un moyen de compter le nombre d'utilisateur du
+logiciel, il me semble que j'avais laissé un message sur un forum
+=> avec une page web de 1px sur 1px ^^ qui contient le code piwik
+
+--------------------------
+Fait dans la version 0.2.8
+--------------------------
+
+- Ajout d'une fonction qui permet de trouver "quel jour était une date"
+- Ajout d'une fonction qui permet de déterminer si une année est-elle bissextile.
+
+-------------------------------
+Le 28 juin 2013 - version 0.2.9
+-------------------------------
+
+- resolution d'un bug qui faisait planté le logiciel. 
+Dans la fenêtre où on entre l'année à tester, si la personne indiquait une chaine de caractère, il y avait un message d'error.
+
+--------------------------------
+Le 28 juin 2013 - version 0.2.10
+--------------------------------
+
+- les différentes fenêtres ne sont plus "redimensionnables"
+
+-------------------------------
+Le 28 juin 2013 - version 0.3.0
+-------------------------------
+
+- ajout d'une fonction qui permet de calculer le jour julien
+
+- idée de nom pour le logiciel : Sosigène 
+D'après Sosigène d'Alexandrie qui était un astronome de la Grèce antique. Il fut consulté par le Pontifex maximus Jules César pour la réforme julienne de l'an 46 av. J.-C. 
+Sosigène est ainsi à l'origine du calendrier julien, avec une année commune de 365 jours divisée en 12 mois, et un jour intercalaire ajouté tous les 4 ans, lors des années 
+bissextiles.
+
+-------------------------------
+Le 28 juin 2013 - version 0.3.1
+-------------------------------
+
+- ajout de 2 images dans la fenêtre principale. C'est inutile mais ça fait plus joli.
+- j'ai enlevé de code piwik qui permettait le suivi des utilisateurs -> il faudra juste trouver une autre solution.
+
+---------------------------------
+Le 2 juillet 2013 - version 0.3.2
+---------------------------------
+
+- ajout d'un splash screen
+- la form du jour julien s'affiche maintenant au centre de l'écran.
+
+---------------------------------
+Le 3 juillet 2013
+---------------------------------
+
+- le numéro de version d'incrémente tout seul
+My.Application.Info.Version.Major & "." & My.Application.Info.Version.Minor & "." & My.Application.Info.Version.Build & "." & My.Application.Info.Version.Revision
+
+

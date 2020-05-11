@@ -1,0 +1,43 @@
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Release\Chronos.exe.manifest
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Release\Chronos.application
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Release\Chronos.exe
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Release\Chronos.pdb
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Release\Chronos.xml
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Release\ResolveAssemblyReference.cache
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Release\Chronos.vbproj.GenerateResource.Cache
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Release\Chronos.exe.manifest
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Release\Chronos.application
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Release\Chronos.exe
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Release\Chronos.xml
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Release\Chronos.pdb
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Release\Chronos.AboutBox1.resources
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Release\Chronos.Form1.resources
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Release\Chronos.Resources.resources
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\bin\Release\fr-FR\Chronos.resources.dll
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Release\Chronos.Form1.fr-FR.resources
+D:\Mes documents\Visual Studio 2008\Projects\Chronos\Chronos\obj\Release\fr-FR\Chronos.resources.dll
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Release\Chronos.exe.config
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.exe
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.xml
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.pdb
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Release\Chronos.exe.manifest
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Release\Chronos.application
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Release\Chronos.exe
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Release\Chronos.pdb
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Release\Chronos.xml
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\bin\Release\fr-FR\Chronos.resources.dll
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.AboutBox1.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.AboutBox2.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.Form1.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.Form2.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.Form2_astuces.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.Form3.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.Form4.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.Resources.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.Form1.fr-FR.resources
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\fr-FR\Chronos.resources.dll
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.exe.manifest
+C:\Users\Alexis\Documents\Visual Studio 2010\Projects\Chronos\obj\Release\Chronos.application

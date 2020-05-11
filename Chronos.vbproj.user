@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Alex\Desktop\publication\|C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chronos\publish\|ftp://genealexis.fr/public/www/chronos/|C:\Users\Alex\Desktop\test2\|C:\Users\Alex\Desktop\test\</PublishUrlHistory>
+    <InstallUrlHistory>http://www.genealexis.fr/chronos/|http://www.genealexis.fr/chronoscd/|http://genealexis.fr/chronos/</InstallUrlHistory>
+    <SupportUrlHistory>http://chronos.genealexis.fr/|http://genealexis.fr/index.php/logiciels.html</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>fr-FR</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

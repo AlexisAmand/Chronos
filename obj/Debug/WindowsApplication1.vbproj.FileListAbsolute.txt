@@ -1,0 +1,11 @@
+K:\Documents and Settings\alexis\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+K:\Documents and Settings\alexis\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+K:\Documents and Settings\alexis\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+K:\Documents and Settings\alexis\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+K:\Documents and Settings\alexis\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+K:\Documents and Settings\alexis\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+K:\Documents and Settings\alexis\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+K:\Documents and Settings\alexis\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+K:\Documents and Settings\alexis\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+K:\Documents and Settings\alexis\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+K:\Documents and Settings\alexis\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
