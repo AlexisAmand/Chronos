@@ -567,7 +567,7 @@ ok:     Label2.Text = njR(CInt(Mid(ComboBox4.Text, 2, 1)))
     End Sub
 
     Private Sub TestToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles TestToolStripMenuItem.Click
-        System.Diagnostics.Process.Start("http://chronos.genealexis.fr/")
+        System.Diagnostics.Process.Start("http://chronos.genealexis.fr")
     End Sub
 
     Private Sub TrouverLeJourDuneDateToolStripMenuItem1_Click(sender As System.Object, e As System.EventArgs) Handles TrouverLeJourDuneDateToolStripMenuItem1.Click
