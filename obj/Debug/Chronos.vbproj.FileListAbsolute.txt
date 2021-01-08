@@ -222,3 +222,30 @@ E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.application
 E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.exe
 E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.xml
 E:\Dev\Visual Studio 2015\Projects\Chronos\obj\Debug\Chronos.pdb
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\bin\Debug\Chronos.exe.config
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\bin\Debug\Chronos.exe.manifest
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\bin\Debug\Chronos.application
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\bin\Debug\Chronos.exe
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\bin\Debug\Chronos.pdb
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\bin\Debug\Chronos.xml
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\bin\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.AboutBox1.resources
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.Form1.resources
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.Form2.resources
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.Form2_astuces.resources
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.Form3.resources
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.Form4.resources
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.jourjulien.resources
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.Resources.resources
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.SplashScreen1.resources
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.Form1.fr-FR.resources
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.vbproj.GenerateResource.cache
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.vbproj.CoreCompileInputs.cache
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\fr-FR\Chronos.resources.dll
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.TrustInfo.xml
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.exe.manifest
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.application
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.exe
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.xml
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.pdb
+C:\Users\Alex\Google Drive\Visual Studio 2017\Chronos\obj\Debug\Chronos.vbprojAssemblyReference.cache

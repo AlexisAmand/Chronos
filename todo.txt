@@ -1,8 +1,8 @@
-﻿
-
----------------------------
+﻿---------------------------
 A faire
 ---------------------------
+
+- Suppression sur slashscreen
 
 - installation sur CD / DVD
 - création d'un zip
@@ -37,11 +37,6 @@ ww Semaine
 h Heure 
 n Minute 
 s Seconde
-
-- ajout d'une section encyclopedie qui afficherait des infos sur les calendriers ?
-
-- j'ai ajouté un splashscreen mais ça marche pô
-il faut ajouté un délai au bout duquel il est maqué pour laisser sa place à la Form1
 
 - il faut créer un fichier qui contient la configuration, il peut par exemple contenir
 le numéro de version que je peux facilement récupérer sur les pages où j'en ai besoin.

@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Chronos.exe" size="1036288">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Chronos.exe" size="1007616">
       <assemblyIdentity name="Chronos" version="0.2.0.33" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>t7FPBnpkEY7seb7NrcRjDmMfaIk=</dsig:DigestValue>
+        <dsig:DigestValue>z/yHVo7z+uhLQu0KX4mjaKcdB0w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -81,13 +81,13 @@
       <dsig:DigestValue>VyGMMWtpIeLNYQJ6I4ftwxotlHE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="todo.txt" size="4355">
+  <file name="todo.txt" size="4154">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>/vDlmESLLvbMmYtR0hH7QvXuXus=</dsig:DigestValue>
+      <dsig:DigestValue>/wEysoMTPSMg70TNJagvhFtEEcw=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
