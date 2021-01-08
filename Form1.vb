@@ -543,7 +543,7 @@ ok:     Label2.Text = njR(CInt(Mid(ComboBox4.Text, 2, 1)))
     End Sub
 
     Private Sub OptionsToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs)
-        Form4.Visible = True
+
 
     End Sub
 

@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Chronos.exe" size="948736">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Chronos.exe" size="937472">
       <assemblyIdentity name="Chronos" version="0.4.55.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>8mKGJzuHArOF2s1lv149+CGU+70=</dsig:DigestValue>
+        <dsig:DigestValue>u+TuC2YUS+9kubreZNI1O9ozFo8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

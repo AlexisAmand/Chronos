@@ -150,7 +150,7 @@ Partial Class Form1
         'ToolStripStatusLabel1
         '
         Me.ToolStripStatusLabel1.Name = "ToolStripStatusLabel1"
-        Me.ToolStripStatusLabel1.Size = New System.Drawing.Size(121, 17)
+        Me.ToolStripStatusLabel1.Size = New System.Drawing.Size(119, 17)
         Me.ToolStripStatusLabel1.Text = "ToolStripStatusLabel1"
         '
         'MenuStrip1
@@ -173,7 +173,7 @@ Partial Class Form1
         'QuitterToolStripMenuItem
         '
         Me.QuitterToolStripMenuItem.Name = "QuitterToolStripMenuItem"
-        Me.QuitterToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.QuitterToolStripMenuItem.Size = New System.Drawing.Size(111, 22)
         Me.QuitterToolStripMenuItem.Text = "Quitter"
         '
         'OutilsToolStripMenuItem
@@ -186,19 +186,19 @@ Partial Class Form1
         'AnnéeBissextileToolStripMenuItem
         '
         Me.AnnéeBissextileToolStripMenuItem.Name = "AnnéeBissextileToolStripMenuItem"
-        Me.AnnéeBissextileToolStripMenuItem.Size = New System.Drawing.Size(210, 22)
+        Me.AnnéeBissextileToolStripMenuItem.Size = New System.Drawing.Size(208, 22)
         Me.AnnéeBissextileToolStripMenuItem.Text = "Année bissextile"
         '
         'TrouverLeJourDuneDateToolStripMenuItem1
         '
         Me.TrouverLeJourDuneDateToolStripMenuItem1.Name = "TrouverLeJourDuneDateToolStripMenuItem1"
-        Me.TrouverLeJourDuneDateToolStripMenuItem1.Size = New System.Drawing.Size(210, 22)
+        Me.TrouverLeJourDuneDateToolStripMenuItem1.Size = New System.Drawing.Size(208, 22)
         Me.TrouverLeJourDuneDateToolStripMenuItem1.Text = "Trouver le jour d'une date"
         '
         'CalculDuJourJulienToolStripMenuItem
         '
         Me.CalculDuJourJulienToolStripMenuItem.Name = "CalculDuJourJulienToolStripMenuItem"
-        Me.CalculDuJourJulienToolStripMenuItem.Size = New System.Drawing.Size(210, 22)
+        Me.CalculDuJourJulienToolStripMenuItem.Size = New System.Drawing.Size(208, 22)
         Me.CalculDuJourJulienToolStripMenuItem.Text = "Calcul du jour julien"
         '
         'ToolStripMenuItem1
@@ -211,13 +211,13 @@ Partial Class Form1
         'TestToolStripMenuItem
         '
         Me.TestToolStripMenuItem.Name = "TestToolStripMenuItem"
-        Me.TestToolStripMenuItem.Size = New System.Drawing.Size(186, 22)
+        Me.TestToolStripMenuItem.Size = New System.Drawing.Size(185, 22)
         Me.TestToolStripMenuItem.Text = "Voir le site du logiciel"
         '
         'AProposToolStripMenuItem1
         '
         Me.AProposToolStripMenuItem1.Name = "AProposToolStripMenuItem1"
-        Me.AProposToolStripMenuItem1.Size = New System.Drawing.Size(186, 22)
+        Me.AProposToolStripMenuItem1.Size = New System.Drawing.Size(185, 22)
         Me.AProposToolStripMenuItem1.Text = "A propos..."
         '
         'PictureBox2
