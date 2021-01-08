@@ -3,19 +3,15 @@
 
 
 Public Class Form1
+
+    ' Form principale, elle contient de formulaire rep/greg
+
     Dim njG(8) As String
     Dim njR(11) As String
 
 
     Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
-
-        Me.Visible = False
-        SplashScreen1.visible = true
-        SplashScreen1.Update()
-        System.Threading.Thread.Sleep(2000)
-        SplashScreen1.Close()
-        Me.Visible = True
 
 
 
@@ -452,7 +448,7 @@ ok:     Label2.Text = njR(CInt(Mid(ComboBox4.Text, 2, 1)))
         ToolStripStatusLabel1.Text = " "
     End Sub
 
-  
+
 
 
 
