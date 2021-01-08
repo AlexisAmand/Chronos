@@ -1,6 +1,11 @@
 ﻿Public Class jourjulien
 
+    ' Calcul du jour julien
+
     Private Sub jourjulien_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+        Me.Text = "Calcul du jour julien"
+
         Me.Left = (SystemInformation.PrimaryMonitorSize.Width - Me.Width) / 2
         Me.Top = (SystemInformation.PrimaryMonitorSize.Height - Me.Height) / 2
 

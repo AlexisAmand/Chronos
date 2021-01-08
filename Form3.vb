@@ -1,5 +1,7 @@
 ﻿Public Class Form3
 
+    ' Cette form trouve a quel jour correspond une date donnée
+
     Dim jour As Integer
     Dim fin_an As Integer
     Dim debut_an As Integer
@@ -9,6 +11,8 @@
 
 
     Private Sub Form3_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+
+        Me.Text = "Trouver le jour d'une date"
 
         Dim i, j, k As Integer
 

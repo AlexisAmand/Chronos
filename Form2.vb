@@ -1,5 +1,7 @@
 ﻿Public Class Form2
 
+    ' Cette form est celle pour les années bissextiles
+
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
         Dim Bis As Integer
 
@@ -29,19 +31,11 @@
 
         End If
 
-
-
-
-
-
-
-
-
     End Sub
 
     Private Sub Form2_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
 
-        Me.Text = "Année bissextile ?"
+        Me.Text = "Année bissextile"
         Me.Left = (SystemInformation.PrimaryMonitorSize.Width - Me.Width) / 2
         Me.Top = (SystemInformation.PrimaryMonitorSize.Height - Me.Height) / 2
 
