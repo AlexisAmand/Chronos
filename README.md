@@ -5,6 +5,10 @@ Chronos is a small software in vbnet which makes it possible to make calculation
 
 ### Screenshots
 
-![alt text](http://thegasp.genealexis.fr/images/captures/thegasp-01.jpg)   
+![alt text](https://raw.githubusercontent.com/AlexisAmand/Chronos/master/captures/chronos-01.jpg)   
 
-![alt text](http://thegasp.genealexis.fr/images/captures/thegasp-04.jpg)  
+![alt text](https://raw.githubusercontent.com/AlexisAmand/Chronos/master/captures/chronos-02.jpg) 
+
+![alt text](https://raw.githubusercontent.com/AlexisAmand/Chronos/master/captures/chronos-03.jpg)  
+
+![alt text](https://raw.githubusercontent.com/AlexisAmand/Chronos/master/captures/chronos-04.jpg)   
