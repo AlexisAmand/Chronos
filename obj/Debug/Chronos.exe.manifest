@@ -4,7 +4,7 @@
   <description asmv2:iconFile="chronos.ico" asmv2:publisher="Alexis AMAND" asmv2:product="Chronos" asmv2:supportUrl="http://chronos.genealexis.fr/" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Chronos" version="0.2.0.33" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="Chronos" version="0.4.55.0" language="neutral" processorArchitecture="x86" />
     <commandLine file="Chronos.exe" parameters="" />
   </entryPoint>
   <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Chronos.exe" size="951296">
-      <assemblyIdentity name="Chronos" version="0.2.0.33" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Chronos.exe" size="940544">
+      <assemblyIdentity name="Chronos" version="0.4.55.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>1XOYeJqqbpW4yhGawQvha6l5QWU=</dsig:DigestValue>
+        <dsig:DigestValue>kdMkLUKunJfCmqxDVagDnsPyXs4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

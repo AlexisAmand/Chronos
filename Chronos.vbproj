@@ -264,10 +264,6 @@
     <None Include="images\Thermidor.jpg" />
     <None Include="images\Vendemiaire.jpg" />
     <None Include="images\ventose.jpg" />
-    <None Include="Resources\V00005_0_0002_Z.jpg" />
-    <None Include="Resources\logogd.jpg" />
-    <None Include="Resources\clepsydre.jpg" />
-    <None Include="Resources\clepsydre1.jpg" />
     <Content Include="todo.txt" />
     <Content Include="TextTemplate1.txt">
       <AutoGen>True</AutoGen>
@@ -275,7 +271,9 @@
       <DependentUpon>TextTemplate1.tt</DependentUpon>
     </Content>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
